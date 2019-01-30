@@ -5,3 +5,11 @@ or working in different locations with
 different computers, you may want to 
 use a remote repository rather 
 than keeping your work only local. 
+
+Manual vs Automatic pull
+
+It would be advantageous to pull
+changes manually rather than 
+automatically in case there are 
+any changes you actually don't want
+committed to the repository. 
