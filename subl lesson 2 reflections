@@ -1,0 +1,5 @@
+Reflect: initializing a Repository
+To initiate a git repository one
+must use 'git init' to run the 
+command and then see what is in
+it by using 'git status'
