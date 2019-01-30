@@ -1,0 +1,3 @@
+Reflect: Using diff to Find Bugs
+I love the idea that I could easily find differences between files of code so that I am more easily able to find mistakes down the road rather than wading through line by line.
+Also, perhaps this could be a good way of checking between saves that everything that was added, was added correctly. 
